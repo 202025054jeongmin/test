@@ -1,0 +1,183 @@
+{
+    margin: 0;
+    padding: 0;
+    
+
+}
+
+.fr03{
+     width: 1100px;
+     height: 40px;
+     position: absolute;
+     bottom: 15px;
+     text-align: center;
+
+
+
+
+}
+
+/*--네비게이션--*/
+nav{
+    width: 100%;
+    height: 100px;
+    padding-top: 36px;
+}
+
+ul{width: 1100px;
+   height: 100px;
+   margin: 0 auto;
+   display: flex;
+   justify-content: space-between;
+   background-color: blue;
+   border-radius: 55px;
+   
+
+
+
+
+}
+
+li{}
+.bt01{padding-right: 134px; padding-left: 44px;}
+.bt02
+.bt03
+.bt04{padding-right: 45px;}
+
+.bt01:hover{filter: invert(1);}
+.bt02:hover{filter: invert(1);}
+.bt03:hover{filter: invert(1);}
+.bt04:hover{filter: invert(1);}
+
+
+
+
+
+
+
+
+
+/*--sub01--*/
+.s_b00{width: 100%;}
+
+.s_b01{height: 900px; 
+    background-color: bisque;}
+
+    .s_b01_01{width: ;
+        height: ;
+        margin: 0 auto;
+
+
+    }
+
+.s_b02{height: 963px;
+    background-color: blue;}
+.s_b02_01{ width: 746px;
+           height: 727px;
+           
+
+}
+
+
+.s_b03{height: 240px;
+    background-color: bisque;}
+
+.s_b04{height: 1894px;
+    background-color: blue;}
+
+.s_b04_01{width: 947px;
+          height: 486px;
+          background-color: antiquewhite;
+          margin: 0 auto;
+          padding-top: 124px;
+}
+
+.s_b04_02{width: 333px;
+    height: 486px;
+    margin: 0 auto;
+    padding-top: 135px;
+
+
+
+
+}
+
+
+
+.s_ft{width: 100%; 
+    height: 200px; 
+    background-color: bisque; 
+    text-align: center;}
+
+
+    /*--sub02--*/
+    .s2_s_b02{}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .s_ft{width: 100%; 
+        height: 200px; 
+        background-color: bisque; 
+        text-align: center;}
+    
+
+
+
+    .s_b02_01{}
+
+
+
+
+
+
+
+
+
+    /*--sub03--*/
+
+    .s3_b01_01{}
+
+
+
+
+
+    .s3_cont{}
+
+
+    .s3_cont_b0{width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;}
+
+
+    .s3_cont_b3{height: ;
+                background-image: ;}
+
+
+    .s3_cont_b4{
+
+
+
+    }
+
+
+
+
+
+
+    .s_ft{width: 100%; 
+        height: 200px; 
+        background-color: bisque; 
+        text-align: center;}
+    
